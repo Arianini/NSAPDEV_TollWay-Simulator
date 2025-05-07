@@ -29,7 +29,6 @@ This project implements a multi-threaded TCP server that tracks vehicle entries 
     ├── docs/
     │   └── NSAPDEV Final Project.docx     # Project report and architecture
     ├── README.md                          # This file
-    └── LICENSE                            # (Optional) License file
 
 ## Getting Started
 
