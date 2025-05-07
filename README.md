@@ -37,23 +37,6 @@ This project implements a multi-threaded TCP server that tracks vehicle entries 
 - Python 3.7+
 - (Optional) Virtual environment tool (venv, virtualenv, conda)
 
-### Installation
-
-1. **Clone the repository**
-
-        git clone https://github.com/<your-username>/tollway-simulator.git
-        cd tollway-simulator
-
-2. **(Optional) Create and activate a virtual environment**
-
-        python3 -m venv venv
-        source venv/bin/activate   # Linux/macOS
-        venv\Scripts\activate      # Windows
-
-3. **Install dependencies**
-
-        There are no external dependencies beyond the Python Standard Library.
-
 ## Usage
 
 ### 1. Start the Server
