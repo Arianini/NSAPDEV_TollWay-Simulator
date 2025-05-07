@@ -93,21 +93,7 @@ Inside `client.py` and `server.py`, you can customize:
 
 ## Project Report
 
-See the detailed project description, architecture diagrams, and performance analysis in `docs/NSAPDEV Final Project.docx`.
-
-## Contributing
-
-Contributions are welcome! Please:
-
-1. Fork the repository  
-2. Create a feature branch (`git checkout -b feature/YourFeature`)  
-3. Commit your changes (`git commit -m "Add YourFeature"`)  
-4. Push to your branch (`git push origin feature/YourFeature`)  
-5. Open a Pull Request
-
-## License
-
-This project is released under the MIT License.
+See the detailed project description, architecture diagrams, and performance analysis in `NSAPDEV Final Project.docx`.
 
 ## Authors
 
